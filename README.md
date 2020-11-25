@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Created on Saturday Oct. 31, 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+In this project, we made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. We imported the data and answered some questions about it by computing descriptive statistics. We also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+The data can be found on https://www.motivateco.com/
+The codes are in the Github project page https://github.com/ahmagbool/pdsnd_github File: bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Special thanks for Motivate https://www.motivateco.com/ for providing the data.
