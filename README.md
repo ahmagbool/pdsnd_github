@@ -1,5 +1,5 @@
 ### Date created
-Created on Saturday Oct. 31, 2020
+Created on Saturday Oct. 31, 2020 by Ahmed Magbool
 
 ### Project Title
 Explore US Bikeshare Data
@@ -12,4 +12,4 @@ The data can be found on https://www.motivateco.com/
 The codes are in the Github project page https://github.com/ahmagbool/pdsnd_github File: bikeshare.py
 
 ### Credits
-Special thanks for Motivate https://www.motivateco.com/ for providing the data.
+Special thanks to Motivate https://www.motivateco.com/ for providing the data.
