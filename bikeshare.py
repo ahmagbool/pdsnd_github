@@ -1,3 +1,5 @@
+# Explore US Bikeshare Data Project
+
 import time
 import pandas as pd
 import numpy as np
@@ -209,6 +211,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+# The main code is here
 
 def main():
     pd.set_option('display.max_columns', None)
