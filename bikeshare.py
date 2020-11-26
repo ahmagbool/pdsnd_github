@@ -1,4 +1,5 @@
 # Explore US Bikeshare Data Project
+# This project created by Ahmed Magbool for Udacity Nanodegree
 
 import time
 import pandas as pd
@@ -11,7 +12,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
-
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -57,7 +57,6 @@ def get_filters():
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
-
     Args:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -212,7 +211,7 @@ def user_stats(df):
     print('-'*40)
 
 # The main code is here
-
+# All the functions are used here
 def main():
     pd.set_option('display.max_columns', None)
     while True:
